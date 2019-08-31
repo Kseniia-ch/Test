@@ -18,4 +18,9 @@ class Program
     {
         Console.WriteLine("Тут была Ксюха!");
     }
+	
+	void MyBestMetod()
+	{
+		System.Console.WriteLine("Тут был Ростислав"); 
+	}
 }
