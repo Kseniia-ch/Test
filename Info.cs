@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 
 class Program
 {
@@ -24,4 +24,12 @@ class Program
 	{
 		System.Console.WriteLine("Тут был Ростислав"); 
 	}
+
+
+
+}
+
+
+class Best
+{
 }
