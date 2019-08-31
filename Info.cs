@@ -5,6 +5,7 @@ class Program
     static void Main(string [] args)
     {
         System.Console.WriteLine("Hello world");
+        System.Console.WriteLine("I like GitKraken")
         System.Console.WriteLine("Bye world");    
     }
 
