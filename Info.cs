@@ -6,4 +6,9 @@ class Program
     {
         System.Console.WriteLine("Hello world");    
     }
+	
+	void MyBestMetod()
+	{
+		System.Console.WriteLine("Тут был Ростислав"); 
+	}
 }
