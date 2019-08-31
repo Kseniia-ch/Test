@@ -4,7 +4,8 @@ class Program
 {
     static void Main(string [] args)
     {
-        System.Console.WriteLine("Hello world");    
+        System.Console.WriteLine("Hello world");   
+        Console.WriteLine(Fact(0));
     }
 
     static int Fact(int n)
